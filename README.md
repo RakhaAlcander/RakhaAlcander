@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1AOrhG2D1F9ihg3YcOv37IwwbctLBvXw9/view?usp=drive_link" alt="Your Profile Photo" width="250" height="250" style="border-radius: 50%; border: 2px solid #0e75b6;" />
+  <img src="https://drive.google.com/file/d/1AOrhG2D1F9ihg3YcOv37IwwbctLBvXw9/view?usp=drive_link" alt="Your Profile Photo" width="150" height="150" style="border-radius: 50%; border: 2px solid #0e75b6;" />
 </p>
 
 ---

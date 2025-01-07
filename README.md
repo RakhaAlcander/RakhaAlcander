@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/RakhaAlcander/RakhaAlcander/blob/main/photoshop%20(compressed).png" alt="Your Profile Photo" width="150" height="150" style="border-radius: 50%; border: 2px solid #0e75b6;" />
+  <img src="https://github.com/RakhaAlcander/RakhaAlcander/blob/main/photoshop%20(compressed).png" alt="Your Profile Photo" width="300" height="450" style="border-radius: 50%; border: 2px solid #0e75b6;" />
 </p>
 
 ---
